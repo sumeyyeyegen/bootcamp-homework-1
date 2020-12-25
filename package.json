@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeyyeyegen/bootcamp-homework-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumeyyeyegen/bootcamp-homework-1/issues"
+  },
+  "homepage": "https://github.com/sumeyyeyegen/bootcamp-homework-1#readme",
+  "devDependencies": {
+    "sucrase": "^3.16.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
