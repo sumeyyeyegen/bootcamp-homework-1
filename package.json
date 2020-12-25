@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node ./dist/app",
+    "build": "sucrase ./src -d ./dist --transforms imports",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
